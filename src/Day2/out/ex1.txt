@@ -1,0 +1,2 @@
+Day 2 Exercise 2 Test Output
+383
